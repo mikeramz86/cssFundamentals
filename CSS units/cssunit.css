@@ -1,0 +1,14 @@
+
+/*
+
+em: relative unit because it depends on it's font size
+rem: it'll go off default base font size and not the current size of the element
+%: can also use this unit
+default-size: 16px; 
+
+*/
+
+h1 {
+    font-size: 30px;
+    padding: 2rem;
+}

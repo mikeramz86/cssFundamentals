@@ -1,0 +1,20 @@
+/*
+
+High specificty:
+element = 0,01
+classes = 0,1,o
+id = 1,0,0
+!important= rules all
+
+bottom of cascade will always win
+
+inheritence: look it up
+
+prop: inherit; -will inherit attributes
+prop: initital; -set to default
+
+*/
+
+ul {
+    color: blue;
+}
